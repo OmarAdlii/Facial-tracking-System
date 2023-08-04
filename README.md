@@ -1,6 +1,6 @@
 #Facial tracking System
 
-1-Captures images from the webcam and saves them to the "data/images" directory.
+1-Captures images from the webcam and saves them to the "data/images" directory and annotated them using labelme tool.
 
 2-Applies data augmentation techniques using the Albumentations library to create additional images for training a deep learning model for face tracking.
 
