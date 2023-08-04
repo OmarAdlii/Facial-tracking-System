@@ -1,5 +1,4 @@
 #Facial tracking System
-face tracking task using deep learning
 
 1-Captures images from the webcam and saves them to the "data/images" directory.
 
